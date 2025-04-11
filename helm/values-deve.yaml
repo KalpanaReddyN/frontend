@@ -5,7 +5,7 @@ deployment:
 hpa:
   cpuUtilization: 15
 tgb:
-  arn: arn:aws:elasticloadbalancing:us-east-1:315069654700:targetgroup/expense-dev/70d3fc64a11421cd
+  arn: arn:aws:elasticloadbalancing:us-east-1:211125410910:targetgroup/expense-deve/13067af779d2d8ea
 
 
 # imageurl is same thing we gave in backend
